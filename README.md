@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo use
+mozes menjati opis ovde za lakse snalazenje
